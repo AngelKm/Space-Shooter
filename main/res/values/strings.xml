@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Space Shooter</string>
+    <string name="howto">Slide finger across the screen to move.\n
+        Tap once to shoot at the alien spaceship and earn a point.\n
+        Move to avoid getting shot by the alien spaceship.\n
+        Each hit sustained equals one life lost.\n
+        Lose all three lives equals game over.\n
+        Shoot the alien spaceship to earn as many points as you can!
+    </string>
+</resources>
